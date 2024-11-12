@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    "name": """Indian - E-invoicing""",
+    "name": """Test index.html""",
     "version": "1.03.00",
     'countries': ['in'],
     "category": "Accounting/Localizations/EDI",
